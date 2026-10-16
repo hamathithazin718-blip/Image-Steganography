@@ -70,6 +70,12 @@ The complete project documentation is available in PDF format.
 
 > Update the path above if your PDF is stored in a different folder or has a different filename.
 
+## 🎥 Project Presentation
+
+Explore the animated project presentation created using Canva.
+
+👉 [View Project Presentation](https://canva.link/hknpae7ry9n4uzc)
+
 ## 🎓 Learning Outcomes
 
 Through this project, I gained practical experience in:
